@@ -1,5 +1,6 @@
-# customrpc
+# Custom Discord Rich Presence
 Custom discord rich presence in one form
+Many thanks to Lachee for converting source code to C#: https://github.com/Lachee/discord-rpc-csharp#building
 # How to use
 1. Go to https://discord.com/developers/applications
 2. Create new application, note, the name of the app will be what is displayed on your profile
